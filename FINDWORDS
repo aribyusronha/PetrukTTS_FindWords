@@ -22,7 +22,22 @@ const int cols = 16, rows = 15;
 
 char *getWordVertical(int);
 char *reverse(char *);
-bool searchVertical(char *);
+bool searchVertical(char ketik[})
+{
+		char *cek;
+	
+	for (int i = 0; i < 15; i++)
+    {
+        cek = strstr(words[i], ketik);
+        
+	    if(cek != NULL){
+	        return true;
+	    }
+    }
+    
+    return false;
+}
+
 bool searchHorizontal(char *);
 
 
