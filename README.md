@@ -1,19 +1,19 @@
 # DAFTAR ANGGOTA KELOMPOK : 
 	Nama : 	1. Arib Yusron Hamdani        (2017051078)
          	2. Wina Fadhilah              (2017051056)
-         	3. Wieke Sandy Putra Matanari (2017051065)
+         	3. Weike Sandy Putra Matanari (2017051065)
 
 
 # PEMROGRAMAN TERSTRUKTUR - FIND WORD
 
 
 
-[TUGAS KELOMPOK (MAX 4 mhs)]
+[TUGAS KELOMPOK (MAX 3 mhs)]
 
 Buat program dengan kosep pointer bahasa C++ untuk menyelesaikan permainan cari
 kata dari gambar.
 Matrik karakter disimpan dalam variabel pointer di script kode program. Pencarian
-kata dilakukan secara vertikal, horizontal dan diagonal.
+kata dilakukan secara vertikal dan horizontal.
 
 INPUT : 
 inputan terdiri dari N+1 bari, baris pertama berupa N integer, dan Ni baris
