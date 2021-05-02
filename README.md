@@ -16,7 +16,7 @@ Matrik karakter disimpan dalam variabel pointer di script kode program. Pencaria
 kata dilakukan secara vertikal dan horizontal.
 
 INPUT : 
-inputan terdiri dari N+1 bari, baris pertama berupa N integer, dan Ni baris
+inputan terdiri dari N+1 baris, baris pertama berupa N integer, dan Ni baris
 berikutnya berupa kata yang dicari dalam matrik
 
 OUTPUT : 
